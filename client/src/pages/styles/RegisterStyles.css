@@ -1,0 +1,16 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+ 
+    background-color: rgb(255, 255, 255);
+}
+.card input{
+ 
+    /* width: 100%; */
+    float: right;
+    margin-left: 10px;
+}
+
+/* till 11:58 4th video */
